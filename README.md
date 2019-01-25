@@ -2,7 +2,8 @@
 
 [Read here, for general information about the course](https://docs.google.com/document/d/1luikHevZ67obBWsb0jSLHlRwLS448uw5wM4eACjnY0o/edit?usp=sharing)
 
-[Semester Schedule (TBD)](#)  (Eventually this document will be updated with links to learning goals, exercises, literature etc. for each week)
+[Semester Schedule (TBD)](https://docs.google.com/document/d/13vz2NaN4-EtLrn5Xdz67y06Wk9N9HD0jfwCZeyAFTJ4/edit?usp=sharing)
+(Eventually this document will be updated with links to learning goals, exercises, literature etc. for each week)
 
 [Groups and Projects (TBD)](#)
 
